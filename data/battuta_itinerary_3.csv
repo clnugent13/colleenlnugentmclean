@@ -1,0 +1,122 @@
+cartodb_id,_order,details,location,date,longitude,latitude
+1,1,Begins Journey,Tangier ,June 1325,5.834,35.7595
+2,2,,Algiers,August 1325,3.0588,36.7538
+3,3,Stays for 2 months,Tunis,September 1325,10.1815,36.8065
+4,4,,Port of Alexandria ,March 1326,29.5248,31.1216
+5,5,Stays a month,Cairo,April 1326,31.2357,30.0444
+6,6,Tries to reach Mecca but local rebellion forces him to turn back ,Aydhab,May 1326,36.2925,22.1951
+7,7,Leaves for Damascus ,Cairo,June 1326,31.2357,30.0444
+8,8,Stays a month,Damascus,July 1326,36.2765,33.5138
+9,9,4 days Medina then completes hajj,Medina,August 1326,39.5692,24.5247
+10,10,,Mecca,October 1326,39.8579,21.3891
+11,11,Visits Mausoleum of Ali,Najaf,November 1326,44.3331,32.0274
+12,12,,Wasit,December1326,45.7521,32.6024
+13,13,,Basra,February 1327,47.7835,30.5081
+14,14,,Isfahan,April 1327,51.668,32.6546
+15,15,,Shiraz,May 1327,52.5837,29.5918
+16,16,Travels to Tabriz for a few days,Baghdad,June 1327,44.3615,33.3128
+17,17,,Mosul,July 1327,43.164,36.3566
+18,18,,Cizere,July 1327,42.1145,37.193
+19,19,,Mardin (Modern Turkey),July 1327,40.734,37.3129
+20,20,,Sinjar,July 1327,41.8624,36.3142
+21,21,Joins caravan heading to Mecca,Mosul,August 1327,43.164,36.3566
+22,22,Ill and weak; stays for a bit,Mecca,September 1327,39.8579,21.389
+23,23,Follows coast in a series of boats,Port of Jeddah,October 1328,39.1309,21.3101
+24,24,Visits Zabid and Ta'izz,Yemen,November 1328,48.5164,15.5527
+25,25,Land of the Berbers,Mogadishu,April 1329,45.3182,2.0469
+26,26,Stop in Mombasa,Mombasa,December 1329,39.6682,4.0435
+27,27,,Kilwa (Modern Tanzania),February 1330,38.9877,9.1497
+28,28,,Oman,May 1330,55.9754,21.4735
+29,29,Sails back; completes third hajj,Mecca,July 1330,39.8579,21.389
+30,30,Departs for India ,Latakia,November 1330,35.7953,35.5407
+31,31,,Alanya ,December 1330,31.9954,36.5444
+32,32,,Antalya,January 1331,30.7133,36.8969
+33,33,,Egirdir,February 1331,30.8509,37.8741
+34,34,,Birgi,April 1331,28.0739,38.2578
+35,35,,Bursa,July 1331,29.061,40.1885
+36,36,,Mudurnu,September 1331,31.2119,40.4626
+37,37,,Sinop,November 1331,35.1517,42.028
+38,38,,Kerch,January 1332,36.4683,45.3573
+39,39,,Kaffa,March 1332,35.3824,45.0319
+40,40,,Jamboli,April 1332,26.5035,42.4842
+41,41,,Constantinople,May 1332,28.9784,41.0082
+42,42,,Azov,June 1332,39.25,47.06
+43,43,,Astrakhan,July 1332,48.0599,46.3588
+44,44,,New Saray,August 1332,44.31,48.42
+45,45,,Urgench,November 1332,60.6249,41.5345
+46,46,,Bukhara,December 1332,64.4556,39.7681
+47,47,,Samarkand,January 1333,66.975,39.627
+48,48,,Tirmidh,February 1333,67.3086,37.2611
+49,49,,Balkh,March 1333,66.8975,36.7551
+50,50,,Qunduz,April 1333,68.8681,36.7286
+51,51,,Charikar,June 1333,69.1626,35.0108
+52,52,,Kabul,August 1333,69.2075,34.5553
+53,53,,Ghazna,September 1333,68.4174,33.5451
+54,54,,Multan,January 1334,71.5249,30.1575
+55,55,,Abohar,March 1334,74.1993,30.1453
+56,56,,Delhi,June 1334,77.1025,28.7041
+57,57,,Kanauj,October 1337,79.9137,27.0514
+58,58,,Gwalior,November 1337,78.1828,26.2183
+59,59,,Ujjain,1338,75.7849,23.1793
+60,60,,Dhar,1339,75.3025,22.6013
+61,61,,Burhanpur,March 1340,76.2224,21.3194
+62,62,,Daulatabad,August 1341,75.2132,19.9427
+63,63,,Cambay,September 1341,72.619,22.3181
+64,64,,Gandhar,March 1342,72.8291,33.756
+65,65,,Honavar,April 1342,74.4439,14.2798
+66,66,,Mangalore,May 1342,74.856,12.9141
+67,67,,Calicut,June 1342,75.7804,11.2588
+68,68,,Sandapur,October 1342,88.4381,23.2645
+69,69,,Calicut,January 1343,75.7804,11.2588
+70,70,,Malé,December 1343,73.5093,4.1755
+71,71,,Chittagong,August 1344,91.7832,22.3569
+72,72,,Sonargaon,September 1344,90.6204,23.6906
+73,73,,Barah Nagar,December 1344,81.43,25.16
+74,74,,Qaqula,March 1345,100.3685,6.1184
+75,75,,Samudra,August 1345,98.2,26.24
+76,76,,Canton,March 1346,113.2644,23.1291
+77,77,,Quanzhou,October 1346,118.6757,24.8741
+78,78,,Samudra,November 1346,98.2,26.24
+79,79,,Quilon,December 1346,76.6141,8.8932
+80,80,,Calicut,January 1347,75.7804,11.2588
+81,81,,Zafar,April 1347,44.4034,14.2118
+82,82,,Hurmuz,September 1347,56.15,26.34
+83,83,,Shiraz,October 1347,52.5837,29.5918
+84,84,,Isfahan,November 1347,51.668,32.6546
+85,85,,Baghdad,December 1347,44.3615,33.3128
+86,86,,Anah,January 1348,41.9866,34.3732
+87,87,,Jerusalem,February 1348,35.2137,31.7683
+88,88,,Damascus,March 1348,36.2765,33.5138
+89,89,,Homs,April 1348,36.7137,34.7324
+90,90,,Aleppo,May 1348,37.1343,36.2021
+91,91,,Gaza,June 1348,34.3333,31.4167
+92,92,,Cairo,July 1348,31.2357,30.0444
+93,93,,Aydhab,August 1348,36.2925,22.1951
+94,94,,Jidda,September 1348,39.2376,21.2854
+95,95,,Mecca,October 1348,39.8579,21.3891
+96,96,,Medina,November 1348,39.5692,24.5247
+97,97,,Alexandria,December 1348,29.9187,31.2001
+98,98,,Gabes,January 1349,10.0975,33.8881
+99,99,,Tunis,February 1349,10.1815,36.8065
+100,100,,Cagliari,March 1349,9.1217,39.2238
+101,101,,Algiers,April 1349,3.0588,36.7538
+102,102,,Tlemcen,May 1349,1.318,34.8884
+103,103,,Taza,June 1349,3.998,34.2106
+104,104,,Fez,July 1349,5.0078,34.0181
+105,105,,Marrakech,August 1349,7.9811,31.6295
+106,106,,Sale,September 1349,6.4754,34.0311
+107,107,,Tangier,November 1349,5.834,35.7595
+108,108,,Gibraltar,February 1350,5.3536,36.1408
+109,109,,Ronda,April 1350,5.1612,36.7462
+110,110,,Granada,August 1350,3.5986,37.1773
+111,111,,Ceuta,October 1350,5.3213,35.8894
+112,112,,Fez,March 1351,5.0078,34.0181
+113,113,,Sijilmasa,October 1351,4.2824,31.2741
+114,114,,Taghaza,February 1352,5,23.36
+115,115,,Bir al-Ksaib,August 1352,5.3731,21.1734
+116,116,,Walata,October 1352,7.0216,17.299
+117,117,,Timbuktu,December 1352,3.0034,16.4633
+118,118,,Gao,February 1353,0.028,16.264
+119,119,,Takedda,April 1353,6.4659,17.316
+120,120,,Sijilmasa,September 1353,4.2824,31.2741
+121,121,,Fez,March 1354,5.0078,34.0181
